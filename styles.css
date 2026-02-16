@@ -67,8 +67,6 @@ nav a {
     transition: background 0.3s ease;
 }
 
-/* UNIQUE ATTRIBUTE USED: aria-current
-   Styled here to highlight active page */
 nav a[aria-current="page"] {
     background-color: #415a77;
 }
